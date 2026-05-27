@@ -23,7 +23,7 @@ display:none;
 }
 
 .cake{
-font-size:220px;
+font-size:150px;
 animation:float 2s infinite;
 margin-bottom:10px;
 }
@@ -35,31 +35,31 @@ margin-bottom:10px;
 }
 
 h1{
-font-size:65px;
+font-size:38px;
 margin:10px 0;
 font-weight:bold;
 }
 
 h2{
-font-size:55px;
+font-size:32px;
 margin-bottom:20px;
 }
 
 p{
-font-size:32px;
+font-size:22px;
 line-height:1.8;
-max-width:700px;
+max-width:90%;
 padding:0 20px;
 }
 
 button{
 border:none;
-padding:20px 40px;
+padding:15px 28px;
 border-radius:50px;
 background:#ffcad4;
-font-size:32px;
+font-size:22px;
 cursor:pointer;
-margin-top:30px;
+margin-top:25px;
 transition:0.3s;
 box-shadow:0 5px 15px rgba(0,0,0,0.1);
 }
@@ -85,9 +85,9 @@ font-weight:bold;
 .video-btn{
 text-decoration:none;
 background:#ffcad4;
-padding:22px 45px;
+padding:18px 30px;
 border-radius:50px;
-font-size:32px;
+font-size:22px;
 color:#444;
 margin-top:30px;
 box-shadow:0 5px 15px rgba(0,0,0,0.1);
